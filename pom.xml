@@ -13,7 +13,7 @@
 	<groupId>com.lamn.microservices</groupId>
 	<artifactId>eureka-server</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>Eureka Server</name>
+	<name>EurekaServer</name>
 	<description>Server to register the microservices</description>
 
 	<properties>
